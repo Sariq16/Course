@@ -1,11 +1,7 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
+1. Md Sariq Sahazada
 
+2. Exploratory Data Analaysis
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+3. Data sourcing and cleaning are initial steps in conducting exploratory data analysis (EDA). Following this, we segment the data based on specific criteria. Once segmented, we apply various statistical methods to gain insights and understand the data better.
+
 
